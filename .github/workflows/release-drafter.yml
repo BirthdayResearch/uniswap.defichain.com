@@ -16,6 +16,6 @@ jobs:
   main:
     runs-on: ubuntu-latest
     steps:
-      - uses: release-drafter/release-drafter@06a49bf28488e030d35ca2ac6dbf7f408a481779
+      - uses: release-drafter/release-drafter@65c5fb495d1e69aa8c08a3317bc44ff8aabe9772
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
