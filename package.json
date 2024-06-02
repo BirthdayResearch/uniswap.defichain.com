@@ -116,7 +116,7 @@
     "start-server-and-test": "^1.11.0",
     "styled-components": "^4.2.0",
     "typescript": "^3.8.3",
-    "use-count-up": "^2.2.5",
+    "use-count-up": "^3.0.1",
     "wcag-contrast": "^3.0.0",
     "workbox-core": "^6.1.0",
     "workbox-expiration": "^6.1.0",
